@@ -1,0 +1,3 @@
+ilinniagait ulluk = Course Date
+ilinniagait kititjuti = Course Number
+sivullik iliniatitsiji = Lead Instructor

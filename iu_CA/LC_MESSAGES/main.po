@@ -1,0 +1,92 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-07-27 02:16+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../var/www/html/course-report.php:179
+msgid ""
+"The following participants have not completed their course registration:"
+msgstr ""
+
+#: ../../var/www/html/course-report.php:280
+msgid "E-mail Certification"
+msgstr ""
+
+#: ../../var/www/html/course-report.php:300
+#: ../../var/www/html/course-report.php:304
+msgid "Course has not ended"
+msgstr ""
+
+#: ../../var/www/html/course-report.php:427
+msgid "Search for existing member"
+msgstr ""
+
+#: ../../var/www/html/menu.php:62
+msgid "Certifications"
+msgstr ""
+
+#: ../../var/www/html/menu.php:66
+msgid "My CM Clinics"
+msgstr ""
+
+#: ../../var/www/html/menu.php:74 ../../var/www/html/menu.php:84
+msgid "Add New"
+msgstr ""
+
+#: ../../var/www/html/menu.php:75 ../../var/www/html/menu.php:85
+msgid "Report"
+msgstr ""
+
+#: ../../var/www/html/menu.php:82
+msgid "CM Clinics"
+msgstr ""
+
+#: ../../var/www/html/menu.php:93
+msgid "Instructor Resources"
+msgstr ""
+
+#: ../../var/www/html/menu.php:94
+msgid "Resources and Policies"
+msgstr ""
+
+#: ../../var/www/html/menu.php:96
+msgid "Sea Kayak Manual"
+msgstr ""
+
+#: ../../var/www/html/menu.php:99
+msgid "River Kayak Manual"
+msgstr ""
+
+#: ../../var/www/html/menu.php:102
+msgid "SUP Manual"
+msgstr ""
+
+#: ../../var/www/html/menu.php:105
+msgid "IT Manual"
+msgstr ""
+
+#: ../../var/www/html/mycourses.php:151
+msgid "Add a Course"
+msgstr ""
+
+#: ../../var/www/html/mycourses.php:155
+msgid "My Courses"
+msgstr ""
+
+#: ../../var/www/html/mycourses.php:178
+msgid "Assisted Courses"
+msgstr ""
