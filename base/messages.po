@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2021-07-27 02:16+0000\n"
+"POT-Creation-Date: 2021-08-30 18:10+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,76 +17,243 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../var/www/html/course-report.php:179
+#: ../../app/class/genpdf.class.php:46
+msgid "Course date"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:47
+msgid "Course number"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:48
+msgid "Lead instructor"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:49
+msgid "Certification Expires"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:50
+msgid "Expired"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:51
+msgid "First Aid Expires"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:52
+msgid "Has successfully completed the requirements for"
+msgstr ""
+
+#: ../../app/class/genpdf.class.php:53
+msgid "This certifies that"
+msgstr ""
+
+#: ../../app/pc/member.php:254
+msgid "Member"
+msgstr ""
+
+#: ../../app/pc/member.php:257
+msgid "Instructor Candidate"
+msgstr ""
+
+#: ../../app/pc/member.php:259
+msgid "Instructor"
+msgstr ""
+
+#: ../../app/pc/member.php:262
+msgid "Instructor Trainer"
+msgstr ""
+
+#: ../../app/pc/ui.php:91
+msgid "Welcome to the Paddle Canada Members Dashboard"
+msgstr ""
+
+#: ../../app/pc/ui.php:92
+msgid "Log out"
+msgstr ""
+
+#: ../../app/pc/ui.php:93
+msgid "Edit Profile"
+msgstr ""
+
+#: ../../app/pc/ui.php:94
+msgid "My Membership"
+msgstr ""
+
+#: ../../app/pc/ui.php:95
+msgid "Renew My Membership"
+msgstr ""
+
+#: ../../app/pc/ui.php:96
+msgid "My Schools"
+msgstr ""
+
+#: ../../app/pc/ui.php:97
+msgid "View my Profile"
+msgstr ""
+
+#: ../../app/pc/ui.php:98
+msgid "Change my Password"
+msgstr ""
+
+#: ../../app/pc/ui.php:99
+msgid "Register for an Instructor Course"
+msgstr ""
+
+#: ../../app/pc/ui.php:100 ../../html/menu.php:62
+msgid "Certifications"
+msgstr ""
+
+#: ../../app/pc/ui.php:101
+msgid "Highest Certifications"
+msgstr ""
+
+#: ../../app/pc/ui.php:102
+msgid "All PC Certifications"
+msgstr ""
+
+#: ../../app/pc/ui.php:103 ../../html/menu.php:66
+msgid "My CM Clinics"
+msgstr ""
+
+#: ../../app/pc/ui.php:104
+msgid "Other Certifications"
+msgstr ""
+
+#: ../../app/pc/ui.php:105
+msgid "Courses"
+msgstr ""
+
+#: ../../app/pc/ui.php:106 ../../html/menu.php:74 ../../html/menu.php:84
+msgid "Add New"
+msgstr ""
+
+#: ../../app/pc/ui.php:107 ../../html/menu.php:75 ../../html/menu.php:85
+msgid "Report"
+msgstr ""
+
+#: ../../app/pc/ui.php:108
+msgid "View My Invoices"
+msgstr ""
+
+#: ../../app/pc/ui.php:109 ../../html/menu.php:82
+msgid "CM Clinics"
+msgstr ""
+
+#: ../../app/pc/ui.php:110 ../../html/services.php:23
+msgid "Instructor Services"
+msgstr ""
+
+#: ../../app/pc/ui.php:111 ../../html/menu.php:93
+msgid "Instructor Resources"
+msgstr ""
+
+#: ../../app/pc/ui.php:112 ../../html/menu.php:94
+msgid "Resources and Policies"
+msgstr ""
+
+#: ../../app/pc/ui.php:113 ../../html/menu.php:96
+msgid "Sea Kayak Manual"
+msgstr ""
+
+#: ../../app/pc/ui.php:114 ../../html/menu.php:99
+msgid "River Kayak Manual"
+msgstr ""
+
+#: ../../app/pc/ui.php:115 ../../html/menu.php:102
+msgid "SUP Manual"
+msgstr ""
+
+#: ../../app/pc/ui.php:116 ../../html/menu.php:105
+msgid "IT Manual"
+msgstr ""
+
+#: ../../app/pc/ui.php:117
+msgid "Trips and Events"
+msgstr ""
+
+#: ../../html/course-report.php:179
 msgid ""
 "The following participants have not completed their course registration:"
 msgstr ""
 
-#: ../../var/www/html/course-report.php:280
+#: ../../html/course-report.php:280
 msgid "E-mail Certification"
 msgstr ""
 
-#: ../../var/www/html/course-report.php:300
-#: ../../var/www/html/course-report.php:304
+#: ../../html/course-report.php:300 ../../html/course-report.php:304
 msgid "Course has not ended"
 msgstr ""
 
-#: ../../var/www/html/course-report.php:427
+#: ../../html/course-report.php:388
+msgid "Incomplete"
+msgstr ""
+
+#: ../../html/course-report.php:389
+msgid "Conditional Pass"
+msgstr ""
+
+#: ../../html/course-report.php:390
+msgid "Lower Level Pass"
+msgstr ""
+
+#: ../../html/course-report.php:391
+msgid "Full Pass"
+msgstr ""
+
+#: ../../html/course-report.php:395
+msgid "Lower Level Award"
+msgstr ""
+
+#: ../../html/course-report.php:401 ../../html/course-report.php:547
+msgid "Internal Comments"
+msgstr ""
+
+#: ../../html/course-report.php:406
+msgid "Close"
+msgstr ""
+
+#: ../../html/course-report.php:407
+msgid "Update"
+msgstr ""
+
+#: ../../html/course-report.php:423
 msgid "Search for existing member"
 msgstr ""
 
-#: ../../var/www/html/menu.php:62
-msgid "Certifications"
-msgstr ""
-
-#: ../../var/www/html/menu.php:66
-msgid "My CM Clinics"
-msgstr ""
-
-#: ../../var/www/html/menu.php:74 ../../var/www/html/menu.php:84
-msgid "Add New"
-msgstr ""
-
-#: ../../var/www/html/menu.php:75 ../../var/www/html/menu.php:85
-msgid "Report"
-msgstr ""
-
-#: ../../var/www/html/menu.php:82
-msgid "CM Clinics"
-msgstr ""
-
-#: ../../var/www/html/menu.php:93
-msgid "Instructor Resources"
-msgstr ""
-
-#: ../../var/www/html/menu.php:94
-msgid "Resources and Policies"
-msgstr ""
-
-#: ../../var/www/html/menu.php:96
-msgid "Sea Kayak Manual"
-msgstr ""
-
-#: ../../var/www/html/menu.php:99
-msgid "River Kayak Manual"
-msgstr ""
-
-#: ../../var/www/html/menu.php:102
-msgid "SUP Manual"
-msgstr ""
-
-#: ../../var/www/html/menu.php:105
-msgid "IT Manual"
-msgstr ""
-
-#: ../../var/www/html/mycourses.php:151
+#: ../../html/mycourses.php:151
 msgid "Add a Course"
 msgstr ""
 
-#: ../../var/www/html/mycourses.php:155
+#: ../../html/mycourses.php:155
 msgid "My Courses"
 msgstr ""
 
-#: ../../var/www/html/mycourses.php:178
+#: ../../html/mycourses.php:178
 msgid "Assisted Courses"
+msgstr ""
+
+#: ../../html/public/instructors.php:56 ../../html/public/instructors.php:59
+msgid "Find an Instructor"
+msgstr ""
+
+#: ../../html/public/instructors.php:60
+msgid "Region"
+msgstr ""
+
+#: ../../html/public/instructors.php:61 ../../html/public/instructors.php:75
+msgid "All Certifications"
+msgstr ""
+
+#: ../../html/public/instructors.php:62
+msgid "Search"
+msgstr ""
+
+#: ../../html/public/instructors.php:63
+msgid "Processing"
+msgstr ""
+
+#: ../../html/public/instructors.php:71
+msgid "All Provinces"
 msgstr ""
